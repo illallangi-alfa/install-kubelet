@@ -1,5 +1,5 @@
 ---
-install_curl_packages:
+install_kubelet_packages:
   common: &common
     - "kubelet"
   debian_armv7l: *common
