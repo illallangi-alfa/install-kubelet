@@ -1,2 +1,5 @@
 ---
 dependencies:
+  - src: "https://git@github.com/illallangi-alfa/configure-kubernetes-repository.git"
+    scm: git
+    version: master
